@@ -1,2 +1,4 @@
 fbprophet==0.7.1
 yfinance==0.1.69
+pystan==2.19.1.1
+python==3.9.7
